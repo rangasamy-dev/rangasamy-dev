@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi, I'm Rangasamy Kandasamy 👋
 
-<!--
-**rangasamy-dev/rangasamy-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Full Stack Developer with a Strong Backend Focus
 
-Here are some ideas to get you started:
+I'm a software engineer with experience in Java-based application development, currently focused on building scalable and maintainable full-stack applications using Java, Spring Boot, Angular, REST APIs, and MySQL.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy solving real-world problems through software while continuously expanding my expertise in backend development, database design, and modern full-stack technologies.
+
+## 🛠 Tech Stack
+
+- Java
+- Spring Boot
+- Angular
+- REST APIs
+- MySQL
+- SQL
+- Git
+
+## 🌱 Currently Learning
+
+- Angular
+- Spring Security
+- Docker
+- System Design
+
+## 🎯 Current Goal
+
+Building production-ready full-stack applications and preparing for Software Engineer and Full Stack Developer opportunities.
+
+## 📫 Connect with Me
+
+- LinkedIn: https://www.linkedin.com/in/rangasamy-kandasamy/
+- Email: rangasamii@gmail.com
